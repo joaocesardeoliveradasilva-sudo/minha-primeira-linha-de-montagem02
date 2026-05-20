@@ -23,8 +23,7 @@ jobs:
       - name: 3. Estação de Teste (Controle de Qualidade)
         run: echo "Rodando os testes automatizados... Verificando se a porta abre e fecha!"
 
-
-        name: Minha Primeira Linha de Montagem
+name: Minha Primeira Linha de Montagem
 
 on:
   push:
@@ -43,5 +42,4 @@ jobs:
 
       - name: 3. Estação de Teste (Controle de Qualidade)
         run: echo "Rodando os testes automatizados... Verificando se a porta abre e fecha!"
-
 
